@@ -38,6 +38,7 @@ for i in range(1,11):
     ax.set_xlabel('Clusters')
     ax.set_ylabel('Inertia')
 ```
+range 1,11 perkiraan inertia yg digunakan 
 
 - make k-means model
 ```py
@@ -53,6 +54,6 @@ for i in range(1,11):
                     palette=sns.color_palette('hls', 5))
     plt.title('KMeans dengan 5 Cluster')
     plt.show()
-
 ```
+berdasarkan visualisasi inertia dapat dilihat 5 adalah jumlah cluster optimal cause inertia 6-11 there is no significant changes 
 

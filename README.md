@@ -42,6 +42,38 @@
   X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33, random_state=42)
   ```
 
+**Save and Load Model**
+
+- Method 1 - Pickle
+    ```py
+    import pickle
+    
+    #save
+    with open('iris_pred_model','wb') as f:
+        pickle.dump(tree_model,f)
+
+    #load
+    with open('iris_pred_model','rb') as f:
+    model = pickle.load(f)
+
+    #Test
+    print(model.predict([[6.2, 3.4, 5.4, 2.3]])[0])
+
+    ``` 
+- Method 2 - Joblib
+    ```py
+    
+    #Save
+    import joblib
+    joblib.dump(tree_model,"iris_pred_model_1.pkl")
+
+    #Load
+    model_1 = joblib.load('iris_pred_model_1.pkl')
+
+    #Test
+    print(model_1.predict([[6.2, 3.4, 5.4, 2.3]])[0])
+    ```
+
 **Others**
 
 - implementasi to dataset : ``.fit()``

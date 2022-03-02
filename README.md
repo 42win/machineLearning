@@ -1,3 +1,14 @@
+# ML Workflow
+
+1. Pengumpulan data
+2. Exploratory data analysis
+3. Data preprocessing
+4. Seleksi model
+5. Evaluasi model
+6. Deployment
+7. monitoring
+
+
 # Base Command
 
 **Pandas** 
@@ -92,3 +103,27 @@
     ```py
     model_pertama.score(X_test, y_test)
     ```
+
+**Numpy**
+- increase the dimension
+  ref [link](https://stackoverflow.com/questions/29241056/how-does-numpy-newaxis-work-and-when-to-use-it)
+  
+  ```py
+  A = np.array([2, 0, 1, 8]) A.shape: (4,)
+
+  A[np.newaxis, :]
+
+  #result
+  array([2, 0, 1, 8]) A.shape: (1*, 4)
+
+  A[:, np.newaxis] 
+  
+  #result
+  array([2],  A.shape: (4, 1*)
+        [0],
+        [1],
+        [8]
+  ])
+
+  (row,column)
+  ```

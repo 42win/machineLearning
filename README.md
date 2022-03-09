@@ -8,6 +8,10 @@
 6. Deployment
 7. monitoring
 
+#Avoid overfitting
+1. Choose model yang lebih sederhana, contohnya in data yang have pola linear use linear regression model than decision tree
+2. Decrease data dimension contohnya by using PCA method
+3. Add data for pelatihan model jika memungkinkan
 
 # Base Command
 

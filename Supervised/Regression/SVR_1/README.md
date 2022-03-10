@@ -30,3 +30,33 @@
   # melatih model dengan fungsi fit
   model.fit(X,y)
   ```
+**Grid Search**
+- techniq to examine some paramater sekaligus
+- term of tuning parameter to increase performance ML Model
+
+**Code**
+- build model with parameter
+  ```py
+  from sklearn.model_selection import GridSearchCV
+  
+  # membangun model dengan parameter C, gamma, dan kernel
+  
+  model = SVR()
+  parameters = {
+      'kernel': ['rbf'],
+      'C':     [1000, 10000, 100000],
+      'gamma': [0.5, 0.05,0.005]
+  }
+  grid_search = GridSearchCV(model, parameters)
+  ```
+- show best parameter
+  ```py
+  print(grid_search.best_params_)
+  ```
+
+- addition, rebuild model from gridSearch result 
+  ```py
+  # membuat model SVM baru dengan parameter terbaik hasil grid search
+  model_baru  = SVR(C=100000, gamma=0.005, kernel='rbf')
+  model_baru.fit(X,y)
+  ```

@@ -30,6 +30,7 @@
   # melatih model dengan fungsi fit
   model.fit(X,y)
   ```
+___
 **Grid Search**
 - techniq to examine some paramater sekaligus
 - term of tuning parameter to increase performance ML Model

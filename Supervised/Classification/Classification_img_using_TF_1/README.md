@@ -1,5 +1,6 @@
 # Image Classification 
 
+using TensorFlow and Keras
 using CNN (Concvulational Neural Network)
 -	Arsitektur CNN is a neural network yang using a layer convulational and max pooling
 

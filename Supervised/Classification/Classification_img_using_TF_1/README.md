@@ -1,7 +1,12 @@
 # Image Classification 
 
-using TensorFlow and Keras
-using CNN (Concvulational Neural Network)
+framework : TensorFlow
+
+library : Keras
+- API to deploy Artificial neural network
+- Allow us to make a multi layer perceptron and convolutional neural network easly
+
+architecture : CNN (Concvulational Neural Network)
 -	Arsitektur CNN is a neural network yang using a layer convulational and max pooling
 
 ## Tujuan

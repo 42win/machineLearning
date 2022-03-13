@@ -1,4 +1,7 @@
-# Image Classification
+# Image Classification 
+
+using CNN (Concvulational Neural Network)
+-	Arsitektur CNN is a neural network yang using a layer convulational and max pooling
 
 ## Tujuan
 the first step before we build model ML is define problem statement that we want to selesaikan.

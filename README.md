@@ -8,6 +8,25 @@
 6. Deployment
 7. monitoring
 
+# General step ML Development
+1.	Determine purposes 
+Ex: i want predict kepadatan  arus lalu lintas in certain day
+2.	Make hipotesa 
+Ho : weahter likely mententukan kepadatan arus lalu lintas
+3.	Collect data
+Collect daily data arus lalu lintas and weather
+4.	Examine hipotesa 
+Train model with collected data
+5.	Analisa hasil
+Is model predict well?
+6.	Make conclusion 
+Ternyata weather is not significant to make kepadatan arus lalu lintas
+7.	Perbaiki hipotesa and try again
+H1: better hipotesis likely hari libur nasional menentukan kepadatan arus lalu lintas
+
+The final goals of ML development is to produce a useful model. The 7th step above kita pandang as experiment that we repeat contiously till get useful model 
+
+
 # Avoid overfitting
 1. Choose model yang lebih sederhana, contohnya in data yang have pola linear use linear regression model than decision tree
 2. Decrease data dimension contohnya by using PCA method

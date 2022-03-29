@@ -42,6 +42,11 @@ jangan folder pakai nama algoritma tapi pakai nama case nya nanti di readme di j
   - Tensorflow, keras, matplotlib, numpy 
   - using batchLoading
   
-
+- [Classification_img_4](https://github.com/42win/machineLearning/tree/main/Supervised/Classification/Classification_img_4)
+  - classify fashion items
+  - ANN
+    - 3 layers (1 hidden layers) 
+  - Tensorflow, keras, matplotlib, numpy  
+  
 
 

@@ -10,6 +10,17 @@ jangan folder pakai nama algoritma tapi pakai nama case nya nanti di readme di j
   - library 
   - others
 
+- [Classification_diabetesPatient](https://github.com/42win/machineLearning/tree/main/Supervised/Classification/Classification_iris)
+  - classify diabetics patient 
+  - SVM (Support Vector Machine)
+  - pandas, sklearn 
+
+- [Classification_iris](https://github.com/42win/machineLearning/tree/main/Supervised/Classification/Classification_iris)
+  - iris classification
+  - Desicion Tree algorithm
+  - sklearn, pickle, joblib
+  - reuse by saving model
+ 
 - [Classification_img_1](https://github.com/42win/machineLearning/tree/main/Supervised/Classification/Classification_img_1)
   - classify messy or tidy room
   - CNN (Convulational Neural Network) 
@@ -23,15 +34,14 @@ jangan folder pakai nama algoritma tapi pakai nama case nya nanti di readme di j
     - 10 layers (8 hidden layers) 
   - Tensorflow, keras, zipfile, os, matplotlib, numpy 
   - using callback, accuration & loss histogram
-  
-- [Classification_iris](https://github.com/42win/machineLearning/tree/main/Supervised/Classification/Classification_iris)
-  - iris classification
-  - Desicion Tree algorithm
-  - sklearn, pickle, joblib
-  - reuse by saving model
 
-- [Classification_diabetesPatient](https://github.com/42win/machineLearning/tree/main/Supervised/Classification/Classification_iris)
-  - classify diabetics patient 
-  - SVM (Support Vector Machine)
-  - pandas, sklearn 
+- [Classification_img_3](https://github.com/42win/machineLearning/tree/main/Supervised/Classification/Classification_img_3)
+  - classify number images
+  - ANN
+    - 3 layers (1 hidden layers) 
+  - Tensorflow, keras, matplotlib, numpy 
+  - using callback, accuration & loss histogram
+  
+
+
 

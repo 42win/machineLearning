@@ -19,7 +19,19 @@ jangan folder pakai nama algoritma tapi pakai nama case nya nanti di readme di j
   
 - [Classification_img_2](https://github.com/42win/machineLearning/tree/main/Supervised/Classification/Classification_img_2)
   - classify scissor, paper or rock
-  - 
-- Classification_iris
-- Classification_diabetesPatient
-  -  SVM (Support Vector Machine)
+  - CNN (Convulational Neural Network) 
+    - 10 layers (8 hidden layers) 
+  - Tensorflow, keras, zipfile, os, matplotlib, numpy 
+  - using callback, accuration & loss histogram
+  
+- [Classification_iris](https://github.com/42win/machineLearning/tree/main/Supervised/Classification/Classification_iris)
+  - iris classification
+  - Desicion Tree algorithm
+  - sklearn, pickle, joblib
+  - reuse by saving model
+
+- [Classification_diabetesPatient](https://github.com/42win/machineLearning/tree/main/Supervised/Classification/Classification_iris)
+  - classify diabetics patient 
+  - SVM (Support Vector Machine)
+  - pandas, sklearn 
+

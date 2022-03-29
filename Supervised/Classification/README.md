@@ -40,7 +40,7 @@ jangan folder pakai nama algoritma tapi pakai nama case nya nanti di readme di j
   - ANN
     - 3 layers (1 hidden layers) 
   - Tensorflow, keras, matplotlib, numpy 
-  - using callback, accuration & loss histogram
+  - using batchLoading
   
 
 

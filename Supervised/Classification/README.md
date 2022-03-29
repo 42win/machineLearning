@@ -10,7 +10,7 @@ jangan folder pakai nama algoritma tapi pakai nama case nya nanti di readme di j
   - library 
   - others
 
-- [Classification_img_1](https://github.com/42win/machineLearning/tree/main/Supervised/Classification/Classification_img_1" target="_blank)
+- [Classification_img_1](https://github.com/42win/machineLearning/tree/main/Supervised/Classification/Classification_img_1)
   - classify messy or tidy room
   - CNN (Convulational Neural Network) 
     - 12 layers (10 hidden layers) 

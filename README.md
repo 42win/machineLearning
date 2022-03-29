@@ -1,4 +1,12 @@
-# ML Workflow
+# Machine Learning
+Machine learning merupakan bidang studi yang didasari oleh gagasan
+bahwa mesin dapat belajar sendiri tanpa diprogram secara eksplisit. Data yang 
+digunakan sistem untuk belajar disebut dataset, setiap contoh pelatihan disebut 
+trainingset atau sampel. Semakin banyak data, semakin baik pembelajarannya
+(Hahn, 2019). Secara umum tipe belajar dari machine learning terbagi menjadi tiga 
+metode yaitu Supervised Laerning, Unsupervised Learning, dan Reinforcemen 
+Learnin
+## ML Workflow
 
 1. Pengumpulan data
 2. Exploratory data analysis
@@ -8,7 +16,7 @@
 6. Deployment
 7. monitoring
 
-# General step ML Development
+## General step ML Development
 1.	Determine purposes 
 Ex: i want predict kepadatan  arus lalu lintas in certain day
 2.	Make hipotesa 
@@ -27,7 +35,7 @@ H1: better hipotesis likely hari libur nasional menentukan kepadatan arus lalu l
 The final goals of ML development is to produce a useful model. The 7th step above kita pandang as experiment that we repeat contiously till get useful model 
 
 
-# Avoid overfitting
+## Avoid overfitting
 1. Choose model yang lebih sederhana, contohnya in data yang have pola linear use linear regression model than decision tree
 2. Decrease data dimension contohnya by using PCA method
 3. Add data for pelatihan model jika memungkinkan

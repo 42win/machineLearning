@@ -6,7 +6,7 @@ jangan folder pakai nama algoritma tapi pakai nama case nya nanti di readme di j
 
 - fileName
   - goals
-  - architecture model
+  - model
   - library 
   - others
 
@@ -23,14 +23,16 @@ jangan folder pakai nama algoritma tapi pakai nama case nya nanti di readme di j
  
 - [Classification_img_1](https://github.com/42win/machineLearning/tree/main/Supervised/Classification/Classification_img_1)
   - classify messy or tidy room
-  - CNN (Convulational Neural Network) 
+  - ANN
+    - Architecture : CNN (Convulational Neural Network) 
     - 12 layers (10 hidden layers) 
   - Tensorflow, keras, zipfile, os, matplotlib, numpy 
   - using callback, accuration & loss histogram
   
 - [Classification_img_2](https://github.com/42win/machineLearning/tree/main/Supervised/Classification/Classification_img_2)
   - classify scissor, paper or rock
-  - CNN (Convulational Neural Network) 
+  - ANN
+    - Architecture : CNN (Convulational Neural Network) 
     - 10 layers (8 hidden layers) 
   - Tensorflow, keras, zipfile, os, matplotlib, numpy 
   - using callback, accuration & loss histogram

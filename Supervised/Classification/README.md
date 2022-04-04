@@ -58,9 +58,9 @@ jangan folder pakai nama algoritma tapi pakai nama case nya nanti di readme di j
   - Tensorflow, keras, matplotlib, numpy, os, zipfile
  
  - [Classification_img_5a](https://github.com/42win/machineLearning/tree/main/Supervised/Classification/Classification_img_5a)
-  - classify image of chess 1
-  - ANN 
-    - 5 layers (1 TransferLearning, 1 Flatter, 2 Hidden, 1 Output) 
-  - Tensorflow, keras, matplotlib, numpy, os, zipfile
-  - using TransferLearning, accuration & loss histogram
+    - classify image of chess 1
+    - ANN 
+      - 5 layers (1 TransferLearning, 1 Flatter, 2 Hidden, 1 Output) 
+    - Tensorflow, keras, matplotlib, numpy, os, zipfile
+    - using TransferLearning, accuration & loss histogram
 

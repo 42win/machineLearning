@@ -54,13 +54,13 @@ jangan folder pakai nama algoritma tapi pakai nama case nya nanti di readme di j
   - classify image of chess
   - ANN
     - Architecture : CNN (Convulational Neural Network) 
-    - 12 layers (3 Conv, 3 MaxPooling, 2 Dropout, 1 Flatter, 2 Hidden, 1 Output) 
+    - 12 layers (3 Conv, 3 MaxPooling, 2 Dropout, 1 Flatten, 2 Hidden, 1 Output) 
   - Tensorflow, keras, matplotlib, numpy, os, zipfile
  
  - [Classification_img_5a](https://github.com/42win/machineLearning/tree/main/Supervised/Classification/Classification_img_5a)
     - classify image of chess 1
     - ANN 
-      - 5 layers (1 TransferLearning, 1 Flatter, 2 Hidden, 1 Output) 
+      - 5 layers (1 TransferLearning, 1 Flatten, 2 Hidden, 1 Output) 
     - Tensorflow, keras, matplotlib, numpy, os, zipfile
     - using TransferLearning, accuration & loss histogram
 

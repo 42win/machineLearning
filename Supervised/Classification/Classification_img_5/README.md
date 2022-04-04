@@ -1,5 +1,9 @@
 # Classificaiton image of chess
 
+## Challenge
+
+- image dataset doesnt have same size and ML Model need same size to process it. 
+
 ## Library
 
 - os

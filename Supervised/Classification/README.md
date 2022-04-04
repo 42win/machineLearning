@@ -9,17 +9,20 @@ jangan folder pakai nama algoritma tapi pakai nama case nya nanti di readme di j
   - model
   - library 
   - others
+  - accuration testing
 
 - [Classification_diabetesPatient](https://github.com/42win/machineLearning/tree/main/Supervised/Classification/Classification_iris)
   - classify diabetics patient 
   - SVM (Support Vector Machine)
   - pandas, sklearn 
+  - 0.75 %
 
 - [Classification_iris](https://github.com/42win/machineLearning/tree/main/Supervised/Classification/Classification_iris)
   - iris classification
   - Desicion Tree algorithm
   - sklearn, pickle, joblib
   - reuse by saving model
+  - 0.93 %
  
 - [Classification_img_1](https://github.com/42win/machineLearning/tree/main/Supervised/Classification/Classification_img_1)
   - classify messy or tidy room
@@ -28,6 +31,7 @@ jangan folder pakai nama algoritma tapi pakai nama case nya nanti di readme di j
     - 12 layers (10 hidden layers) 
   - Tensorflow, keras, zipfile, os, matplotlib, numpy 
   - using callback, accuration & loss histogram
+  - 0.88 %
   
 - [Classification_img_2](https://github.com/42win/machineLearning/tree/main/Supervised/Classification/Classification_img_2)
   - classify scissor, paper or rock
@@ -36,6 +40,7 @@ jangan folder pakai nama algoritma tapi pakai nama case nya nanti di readme di j
     - 10 layers (8 hidden layers) 
   - Tensorflow, keras, zipfile, os, matplotlib, numpy 
   - using callback, accuration & loss histogram
+  - 0.98 %
 
 - [Classification_img_3](https://github.com/42win/machineLearning/tree/main/Supervised/Classification/Classification_img_3)
   - classify number images
@@ -43,12 +48,14 @@ jangan folder pakai nama algoritma tapi pakai nama case nya nanti di readme di j
     - 3 layers (1 hidden layers) 
   - Tensorflow, keras, matplotlib, numpy 
   - using batchLoading
+  - 0.98 %
   
 - [Classification_img_4](https://github.com/42win/machineLearning/tree/main/Supervised/Classification/Classification_img_4)
   - classify fashion items
   - ANN
     - 3 layers (1 hidden layers) 
-  - Tensorflow, keras, matplotlib, numpy  
+  - Tensorflow, keras, matplotlib, numpy
+  - 0.88 %  
   
 - [Classification_img_5](https://github.com/42win/machineLearning/tree/main/Supervised/Classification/Classification_img_5)
   - classify image of chess
@@ -56,6 +63,7 @@ jangan folder pakai nama algoritma tapi pakai nama case nya nanti di readme di j
     - Architecture : CNN (Convulational Neural Network) 
     - 12 layers (3 Conv, 3 MaxPooling, 2 Dropout, 1 Flatten, 2 Hidden, 1 Output) 
   - Tensorflow, keras, matplotlib, numpy, os, zipfile
+  - 0.46 %
  
  - [Classification_img_5a](https://github.com/42win/machineLearning/tree/main/Supervised/Classification/Classification_img_5a)
     - classify image of chess 1
@@ -63,4 +71,5 @@ jangan folder pakai nama algoritma tapi pakai nama case nya nanti di readme di j
       - 5 layers (1 TransferLearning, 1 Flatten, 2 Hidden, 1 Output) 
     - Tensorflow, keras, matplotlib, numpy, os, zipfile
     - using TransferLearning, accuration & loss histogram
+    - 0.86 %
 

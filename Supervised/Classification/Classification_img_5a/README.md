@@ -1,5 +1,11 @@
 # Classificaiton image of chess 1
 
+## Challenge
+
+- image dataset doesnt have same size and ML Model need same size to process it. 
+- limited dataset
+- accuration is too low
+
 ## Library
 
 - os

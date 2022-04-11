@@ -1,4 +1,5 @@
 # Tokenization
+- Proses mengonversi kata-kata ke dalam bilangan numerik 
 
 ## Library
 

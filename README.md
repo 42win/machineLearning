@@ -46,3 +46,6 @@ The final goals of ML development is to produce a useful model. The 7th step abo
   - Sigmoid -> biner classification
   - tanH
   - Softmax -> more than two classification
+
+## Note
+- format/bentuk apa yg terinput di model harus disamakan saat lakukan prediction

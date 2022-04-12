@@ -48,4 +48,4 @@ The final goals of ML development is to produce a useful model. The 7th step abo
   - Softmax -> more than two classification
 
 ## Note
-- format/bentuk apa yg terinput di model harus disamakan saat lakukan prediction
+- format/bentuk atau preprocessing dataset sebelum yg terinput di model harus disamakan saat lakukan prediction

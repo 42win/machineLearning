@@ -45,3 +45,4 @@ The final goals of ML development is to produce a useful model. The 7th step abo
   - ReLu (Rectified Linear Unit) -> ann default function to make network work efficient and speed up computation time
   - Sigmoid -> biner classification
   - tanH
+  - Softmax -> more than two classification

@@ -40,4 +40,8 @@ The final goals of ML development is to produce a useful model. The 7th step abo
 2. Decrease data dimension contohnya by using PCA method
 3. Add data for pelatihan model jika memungkinkan
 
-
+## Activation Function ANN
+- activation function allow ANN can recognize non-linear pattern
+  - ReLu (Rectified Linear Unit) -> ann default function to make network work efficient and speed up computation time
+  - Sigmoid -> biner classification
+  - tanH

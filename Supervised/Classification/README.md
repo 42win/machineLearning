@@ -5,6 +5,7 @@ jangan folder pakai nama algoritma tapi pakai nama case nya nanti di readme di j
 ## List
 
 - fileName
+  - binary/multiclass 
   - goals
   - model
   - library 
@@ -12,12 +13,14 @@ jangan folder pakai nama algoritma tapi pakai nama case nya nanti di readme di j
   - accuration testing
 
 - [Classification_diabetesPatient](https://github.com/42win/machineLearning/tree/main/Supervised/Classification/Classification_iris)
+  - binary
   - classify diabetics patient 
   - SVM (Support Vector Machine)
   - pandas, sklearn 
   - 0.75 %
 
 - [Classification_iris](https://github.com/42win/machineLearning/tree/main/Supervised/Classification/Classification_iris)
+  - multiclass
   - iris classification
   - Desicion Tree algorithm
   - sklearn, pickle, joblib

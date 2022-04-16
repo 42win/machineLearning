@@ -15,15 +15,23 @@ jangan folder pakai nama algoritma tapi pakai nama case nya nanti di readme di j
 - [Classification_diabetesPatient](https://github.com/42win/machineLearning/tree/main/Supervised/Classification/Classification_iris)
   - binary
   - classify diabetics patient 
-  - SVM (Support Vector Machine)
+  - **SVM** (Support Vector Machine)
   - pandas, sklearn 
   - 0.75 %
 
 - [Classification_iris](https://github.com/42win/machineLearning/tree/main/Supervised/Classification/Classification_iris)
   - multiclass
   - iris classification
-  - Desicion Tree algorithm
+  - **Desicion Tree** algorithm
   - sklearn, pickle, joblib
   - reuse by saving model
   - 0.93 %
- 
+  
+- [Classification_iris_1](https://github.com/42win/machineLearning/tree/main/Supervised/Classification/Classification_iris_1)
+  - multiclass
+  - iris classification
+  - **ANN** 
+    - 3 layers  (1 hidden layer)
+  - pandas, keras, sklearn, tensorflow, 
+  - using callback, accuration & loss histogram
+  - 0.93 %

@@ -19,7 +19,7 @@ jangan folder pakai nama algoritma tapi pakai nama case nya nanti di readme di j
   - pandas, sklearn 
   - 0.75 %
 
-- [Classification_diabetesPatient](https://github.com/42win/machineLearning/tree/main/Supervised/Classification/Classification_iris)
+- [Classification_fruit](https://github.com/42win/machineLearning/tree/main/Supervised/Classification/Classification_fruit)
   - binary
   - classify orange or grapefruit 
   - **ANN**

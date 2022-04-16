@@ -19,6 +19,15 @@ jangan folder pakai nama algoritma tapi pakai nama case nya nanti di readme di j
   - pandas, sklearn 
   - 0.75 %
 
+- [Classification_diabetesPatient](https://github.com/42win/machineLearning/tree/main/Supervised/Classification/Classification_iris)
+  - binary
+  - classify orange or grapefruit 
+  - **ANN**
+    - 3 layer (1 hidden layer) 
+  - pandas, sklearn (preprocessing), keras, tensorflow, 
+  - 0.93 %
+
+
 - [Classification_iris](https://github.com/42win/machineLearning/tree/main/Supervised/Classification/Classification_iris)
   - multiclass
   - iris classification
@@ -32,6 +41,6 @@ jangan folder pakai nama algoritma tapi pakai nama case nya nanti di readme di j
   - iris classification
   - **ANN** 
     - 3 layers  (1 hidden layer)
-  - pandas, keras, sklearn, tensorflow, 
+  - pandas, keras, sklearn (preprocessing), tensorflow
   - using callback, accuration & loss histogram
   - 0.93 %

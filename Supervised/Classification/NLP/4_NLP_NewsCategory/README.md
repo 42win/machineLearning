@@ -166,3 +166,21 @@
 ## Evaluation
 
 - in this case we got accuration = 0.9
+
+## Code Snippet
+
+- make text prediction
+    ```py
+        import numpy as np
+
+        #define labels
+        labels = ['business' 	,'entertainment' 	,'politics' 	,'sport' 	,'tech']
+
+        sentences = ["Cristiano Ronaldo just score a goal"]
+        sentences_seq = tokenizer.texts_to_sequences(sentences)
+        sentences_pad = pad_sequences(sentences_seq) #terapkan argumen lainnya bila ada
+        prediction = model_1.predict(sentences_pad)
+
+        print(prediction)
+        print( labels[np.argmax(prediction)], np.max(prediction) )
+    ```

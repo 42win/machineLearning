@@ -12,7 +12,7 @@ jangan folder pakai nama algoritma tapi pakai nama case nya nanti di readme di j
   - accuration testing
  
  
-- [Classification_img_1](https://github.com/42win/machineLearning/tree/main/Supervised/ClassificationImage/Classification_img_1)
+- [Classification_img_1](https://github.com/42win/machineLearning/tree/main/Supervised/Classification_Image/Classification_img_1)
   - classify messy or tidy room
   - ANN
     - Architecture : CNN (Convulational Neural Network) 
@@ -21,7 +21,7 @@ jangan folder pakai nama algoritma tapi pakai nama case nya nanti di readme di j
   - using callback, accuration & loss histogram
   - 0.88 %
   
-- [Classification_img_2](https://github.com/42win/machineLearning/tree/main/Supervised/ClassificationImage/Classification_img_2)
+- [Classification_img_2](https://github.com/42win/machineLearning/tree/main/Supervised/Classification_Image/Classification_img_2)
   - classify scissor, paper or rock
   - ANN
     - Architecture : CNN (Convulational Neural Network) 
@@ -30,7 +30,7 @@ jangan folder pakai nama algoritma tapi pakai nama case nya nanti di readme di j
   - using callback, accuration & loss histogram
   - 0.98 %
 
-- [Classification_img_3](https://github.com/42win/machineLearning/tree/main/Supervised/ClassificationImage/Classification_img_3)
+- [Classification_img_3](https://github.com/42win/machineLearning/tree/main/Supervised/Classification_Image/Classification_img_3)
   - classify number images
   - ANN
     - 3 layers (1 hidden layers) 
@@ -38,7 +38,7 @@ jangan folder pakai nama algoritma tapi pakai nama case nya nanti di readme di j
   - using batchLoading (make training process faster), using tensorflow dataset tf.data.datasets
   - 0.98 %
  
-- [Classification_img_4](https://github.com/42win/machineLearning/tree/main/Supervised/ClassificationImage/Classification_img_4)
+- [Classification_img_4](https://github.com/42win/machineLearning/tree/main/Supervised/Classification_Image/Classification_img_4)
   - classify fashion items
   - ANN
     - 3 layers (1 hidden layers) 
@@ -55,7 +55,7 @@ jangan folder pakai nama algoritma tapi pakai nama case nya nanti di readme di j
   - challenge : limited dataset, dataset doesnt have same size
   - 0.46 %
  
- - [Classification_img_5a](https://github.com/42win/machineLearning/tree/main/Supervised/ClassificationImage/Classification_img_5a)
+ - [Classification_img_5a](https://github.com/42win/machineLearning/tree/main/Supervised/Classification_Image/Classification_img_5a)
     - classify image of chess 1
     - ANN 
       - 5 layers (1 TransferLearning, 1 Flatten, 2 Hidden, 1 Output) 
